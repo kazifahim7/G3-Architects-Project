@@ -296,7 +296,7 @@ img {
     padding: 20px;
     text-align: center;
     position: relative;
-    bottom: 80px;
+    bottom: 60px;
     right: 30px;
     
     
@@ -360,6 +360,14 @@ img {
     }
    .section-2{
     flex-direction: column;
+    margin: 70px;
+   }
+   .feture-content .card1{
+    padding: 10px;
+   }
+   .year-badge{
+    width: 135px;
+    padding: 5px;
    }
 
 }
@@ -406,5 +414,13 @@ img {
     }
     .section-2{
         flex-direction: column;
+        margin: 70px;
+       }
+       .feture-content .card1{
+        padding: 10px;
+       }
+       .year-badge{
+        width: 150px;
+        padding: 15px;
        }
 }
