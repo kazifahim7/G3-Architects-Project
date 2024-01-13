@@ -80,6 +80,8 @@ nav li {
     padding: 20px 24px;
     margin-top: 32px;
     cursor: pointer;
+    color: #FFF;
+    border: none;
 }
 
 
